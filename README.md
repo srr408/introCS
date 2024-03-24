@@ -1,2 +1,2 @@
 # introPython
-The repo contains introductory questions, quizzes, and practice materials that I had made for one of my former private students— it may be useful to new learners.
+The repo contains introductory questions, quizzes, and practice materials that I had made for one of my former private students— it may be useful to new learners. Note, the date on the Latex typeset of the document may not match when I first wrote these questions because of using the Latex command that would set the date to the current date. On Overleaf, which is what I used, this would set the date to the current date of opening the file. 
