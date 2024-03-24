@@ -1,0 +1,2 @@
+#In part e, we just assume our isSort(unsortedList) function is called on a list sorted in descending order. It means it should return False.
+#Because a list in descending order by definition will not be in ascending order.
